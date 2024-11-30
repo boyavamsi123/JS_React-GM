@@ -39,7 +39,7 @@ let Employees = [
   
   getEmp()
     .then(() => {
-      let newEmp = { Eid:103, Name: "ashu", salary: 65000};
+      let newEmp = { Eid:103, Name: "kittu", salary: 65000};
       return createEmp(newEmp); 
     })
     .then(() => {
