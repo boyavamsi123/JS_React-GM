@@ -1,4 +1,4 @@
-import CompB from "./compB"
+import CompB from "./CompB"
 let CompA = ()=>{
     let ename="Rahul Gandhi"
     return <div>

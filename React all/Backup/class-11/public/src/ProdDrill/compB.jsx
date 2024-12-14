@@ -1,4 +1,4 @@
-import CompC from "./compC"
+import CompC from "./CompC"
 let CompB = (props)=>{
 
     return <div>

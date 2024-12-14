@@ -1,4 +1,4 @@
-let compD = (props)=>{
+let CompD = (props)=>{
 
     return <div>
             <h3>Component D</h3>
