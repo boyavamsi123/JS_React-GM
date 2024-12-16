@@ -1,8 +1,10 @@
-import styles from './Styles/css/one.css'
-import Navbar from "./Components/Navbar/Navbar"
+import Users from "./Users/Users"
+
 let App = () => {
     return <div>
-        <Navbar/>
+        <h1>App component</h1>
+        <hr/>
+        <Users/>
         <hr/>
     </div>
 }
